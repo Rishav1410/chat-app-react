@@ -1,0 +1,15 @@
+.chat-arena {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 0;
+}
+
+.chat-arena-empty {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #94a3b8;
+  font-size: 15px;
+}
